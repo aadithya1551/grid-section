@@ -1,4 +1,6 @@
-
+body{
+   background-color: aliceblue;
+}
 
 .container{
    margin: 30px;
@@ -135,7 +137,7 @@ h6{
       height: 110px;
       position: absolute;
       top: 30px;
-      left: 100px;
+      left: 50px;
       opacity: 0.7;
    }
 
