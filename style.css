@@ -1,7 +1,4 @@
 
-body{
-    background-color:azure;
-}
 
 .container{
    margin: 30px;
@@ -105,7 +102,7 @@ h6{
    opacity: 0.7;
 }
 
-@media only screen and (max-width: 650px){
+@media only screen and (max-width: 450px){
 
    .container{
       display: grid;
